@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer | MERN Stack Developer
 
-I'm a Software Engineering student in my final semester, focused on building modern, responsive, and scalable full-stack web applications.
+I'm a recent Software Engineering graduate focused on building modern, responsive, and scalable full-stack web applications.
 
 My main stack is **MERN**, with experience in **JavaScript, TypeScript, React.js, Node.js, Express.js, and MongoDB**. I'm also familiar with **Angular** and **Flutter**.
 
@@ -10,7 +10,7 @@ My main stack is **MERN**, with experience in **JavaScript, TypeScript, React.js
 
 ## 🚀 About Me
 
-- 🎓 B.Sc. in Software Engineering — Jordan University of Science and Technology
+- 🎓 Recent B.Sc. Software Engineering Graduate — Jordan University of Science and Technology
 - 💻 Focused on Full Stack Web Development
 - ⚛️ Main Stack: MERN
 - 🔐 Authentication & Authorization with JWT
