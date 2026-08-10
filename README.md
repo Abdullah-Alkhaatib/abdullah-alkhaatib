@@ -1,44 +1,146 @@
-![](https://komarev.com/ghpvc/?username=abdullah-akhaatib&label=Profile+Views)
+# Hi, I'm Abdullah Alkhatib 👋
 
-# Hi, I'm Abdullah Alkhatib 👋 
+### Full Stack Software Engineer | MERN Stack Developer
 
-### AWS Solutions Architect | Full Stack Developer | IT Trainer
+I'm a Software Engineering student in my final semester, focused on building modern, responsive, and scalable full-stack web applications.
+
+My main stack is **MERN**, with experience in **JavaScript, TypeScript, React.js, Node.js, Express.js, and MongoDB**. I'm also familiar with **Angular** and **Flutter**.
+
 ---
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## 🚀 About Me
 
-### Technologies
+- 🎓 B.Sc. in Software Engineering — Jordan University of Science and Technology
+- 💻 Focused on Full Stack Web Development
+- ⚛️ Main Stack: MERN
+- 🔐 Authentication & Authorization with JWT
+- 🔌 RESTful API Development
+- ⚡ Real-Time Applications with Socket.IO
+- ☁️ Cloudinary Integration
+- 📱 Familiar with Flutter
+- 🅰️ Familiar with Angular
+- 🌱 Always learning and improving my development skills
 
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### Familiar With
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,flutter,dart" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
+
+---
+
+## 💡 What I Work With
+
+- Full Stack Web Applications
+- RESTful API Development
+- Authentication & Authorization
+- CRUD Applications
+- Database Integration
+- Real-Time Communication
+- Responsive User Interfaces
+- Admin Dashboards
+- Cloud Image Uploads
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 SmartCart E-Commerce
+
+A full-stack e-commerce application built with the MERN stack.
+
+**Tech:** React.js · Node.js · Express.js · MongoDB · Socket.IO · Cloudinary
+
+**Features:**
+- User authentication & authorization
+- Product and category management
+- Shopping cart and order management
+- Advanced filtering
+- Real-time customer support chat
+- Responsive admin dashboard
+
+🔗 [View Repository](https://github.com/Abdullah-Alkhaatib/smartcart-11-2-2026)
+
+🌐 [Live Demo](https://smart-cartt.netlify.app)
+
+---
+
+### 📝 Blog Platform
+
+A full-stack blog platform built using the MERN stack.
+
+**Tech:** React.js · Node.js · Express.js · MongoDB · Cloudinary
+
+**Features:**
+- Secure authentication
+- Email verification
+- CRUD operations
+- Post and category management
+- Likes and comments
+- User profiles
+- Admin dashboard
+- RESTful APIs
+
+🔗 [View Repository](https://github.com/Abdullah-Alkhaatib/blog-pro-12-8-2025)
+
+---
+
+## 📚 Currently Learning
+
+- Angular
 - Flutter
-- React
-- Node.js
-- PHP
-- AWS
-- WordPress
+- Scalable Web Application Architecture
+- Modern Frontend Development
 
 ---
 
-## Featured Projects
+## 📫 Connect With Me
 
-### 📱 Flutter Weather App
-
-Real-time weather application built with Flutter and REST APIs.
-
-🔗 https://github.com/DotHW/h03.git
-
----
-
-### 🛒 MERN E-Commerce Store
-
-Full-stack e-commerce application using MongoDB, Express, React, and Node.js.
-
-🔗 https://github.com/fadihattab/mern-store
+<p>
+  <a href="https://www.linkedin.com/in/abdullah-alkhatib">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abdullah.alkhaatib@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🎓 Moodle LMS Platform
+⭐ Thanks for visiting my profile!
 
-Customized Moodle learning management system with cloud deployment.
-
-🔗 https://github.com/fadihattab/moodle-project
+Feel free to explore my repositories and connect with me.
